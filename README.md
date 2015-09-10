@@ -14,6 +14,11 @@ I am building this website to gain experience in creating web applications and w
  - Discuss posts in comments!
  - Organize posts by "Most Recent" or "Most Upvoted"!
  - Notifications when someone comments on your post!
+ - Form validation for submitting posts!
+ - Error notifications
+ - Server-side validation of upvotes and post submits!
+ - Efficient routing with page transitions!
+ - See posts animate in real-time as people upvote them!
  
  
 ##TODO
